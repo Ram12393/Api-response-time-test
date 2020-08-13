@@ -2,7 +2,7 @@
 
 To get the Node server running locally:
 
-  * Clone this repo
+  * Clone this repo ``` https://github.com/Ram12393/Api-response-time-test.git ```
 
   * ```npm install ``` to install all required dependencies
 
