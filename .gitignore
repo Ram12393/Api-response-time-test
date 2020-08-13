@@ -1,0 +1,10 @@
+.vscode
+node_modules
+dist/*
+logs/*.log
+npm-debug.log*
+*.zip
+config/server.js
+.env
+public/
+assets/
