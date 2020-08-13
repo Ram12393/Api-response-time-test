@@ -10,7 +10,7 @@ To get the Node server running locally:
 
   * ``` npm start ``` to start the local server
 
-check the response time for each request in ``` logs/responseTime.log ```
+check the response time for each request in ``` src/logs/responseTime.log ```
 
 ## sample API Endpoints 
 
